@@ -10,10 +10,6 @@ public class Funcionario {
 		return this.salario * 0.1;
 	}
 	
-	public double novoSalario() {
-		return this.salario *= 0.1;
-	}
-	
 	//Getters
 	public String getNome() {
 		return this.nome;
